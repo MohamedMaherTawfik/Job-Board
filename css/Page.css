@@ -275,3 +275,42 @@ transition: 10px;
     padding: 100px;
     text-align: center;
 }
+.cardcolor{
+    background-color: #26317f;
+    width: 120%;
+    text-align: center;
+    height: 120%;
+}
+
+.cardtitle{
+    color: white;
+    font-size: 28px;
+    margin-top: 15px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.cardtext{
+    text-align: center;
+    margin-top: 10px;
+font-size: 18px;
+color: white;
+
+}
+
+.cardbody{
+    text-align: center;
+}
+
+.logog{
+    margin-top: 55px;
+    font-size: 70px;
+    text-align: center;
+    color: white;
+}
+
+.cardtextt{
+text-align: center;
+font-size: 18px;
+color: white;
+}
