@@ -2,11 +2,13 @@
 {
 text-indent: 200px;
 } */
-body{
-    background-color: #e9edf4
+
+.section1{
+    padding: 80px;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
 }
-
-
 .navs{
 text-indent:141px;
 }
@@ -74,7 +76,7 @@ color: rgba(0, 0, 0, 0.459);
 
 .words{
     color: #28395a;
-    margin-top: 200px;
+    margin-top: 130px;
     font-size: 80px;
     line-height: 1.2em;
     font-weight: 900;
@@ -84,10 +86,12 @@ color: rgba(0, 0, 0, 0.459);
 {
     width: 340px;
     height: 70px;
+    margin-bottom: 60px;
 }
 
 .iconn {
 color: #fb246a;
+margin-bottom: 60px;
 text-decoration: none;
 }
 
@@ -186,10 +190,14 @@ margin-left: 500px;
     margin-top: 20px;
 }
 
+.sectionimage{
+    background-size: cover;
+}
+
 .section2{
-    padding: 165px;
+    padding: 89px;
     margin-top: 150px;
-    background-color: rgba(31, 43, 123, 0.664);
+    background-color: rgba(31, 43, 123, 0.801);
 }
 .icone{
     margin-top: 430px;    
