@@ -187,7 +187,7 @@ margin-left: 500px;
 }
 
 .section2{
-    padding: 65px;
+    padding: 165px;
     margin-top: 150px;
     background-color: rgba(31, 43, 123, 0.664);
 }
@@ -212,4 +212,51 @@ margin-left: 500px;
 }
 .icone:hover{
     color: #28395a;
+}
+
+.section3{
+    padding: 150px;
+    background-color: white;
+
+}
+
+.h55{
+    font-size: 20px;
+    color: #da2461;
+    margin-top: 100px;
+    text-align: center;
+    
+}
+
+.hh{
+    font-size: 70px;
+    color: black;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.marketer{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 900;
+    color: black;
+    margin-bottom: 25px;
+}
+.marketer:hover{
+color: #da2461;
+}
+.image{
+transition: 10px;
+}
+
+.fulltime{
+    text-decoration: none;
+    border-radius: 15px;
+    border:1px solid #8b92dd;
+    text-align: center;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 7px;
+    padding-bottom: 7px;
 }
