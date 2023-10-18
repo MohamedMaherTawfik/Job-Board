@@ -319,3 +319,31 @@ color: white;
     text-align: center;
     padding: 100px;
 }
+
+.Buttonn{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px; ;
+    padding-right: 20px; ;
+    text-decoration: none;
+    font-size: 19px;
+    border-radius: 10px;
+    color: rgba(255, 255, 255, 0.788);
+    background-color: #da2461e1;
+}
+
+.Buttonn:hover{
+    background-color: #da2461;
+    color: white;
+}
+
+.support-img{
+    position: absolute;
+    bottom: 0px;
+    background: #1f2b7b;
+    padding: 59px 28px;
+    border-radius: 5px;
+    left: -100px;
+    top: 200px;
+    opacity: 150%;
+}
