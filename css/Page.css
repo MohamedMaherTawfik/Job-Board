@@ -347,3 +347,27 @@ color: white;
     top: 200px;
     opacity: 150%;
 }
+
+.section7{
+    padding: 100px;
+    /* text-align: center; */
+}
+
+.home-blog1{
+    margin-top: 9px;
+    padding: 12px;
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+}
+
+.home-blog1:hover{
+    color: #da2461;
+}
+
+.home-blog2{
+    text-decoration: none;
+    padding: 8px;
+    font-size: 18px;
+    color: #28395a;
+}
