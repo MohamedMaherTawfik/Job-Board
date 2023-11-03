@@ -10,7 +10,7 @@ text-indent: 200px;
     width: 100%;
 }
 .navs{
-text-indent:141px;
+text-indent:50px;
 }
 
 .nav-link{
@@ -207,7 +207,7 @@ margin-left: 500px;
     width: 270px;
     position: absolute;
     color:#8b92dd;
-    font-size: 16px;
+    font-size: 17px;
     font-weight: 400 ;
     display: inline-block;
     padding: 15px;
@@ -218,6 +218,7 @@ margin-left: 500px;
 }
 .icone:hover{
     color: #28395a;
+    background-color: rgba(255, 255, 255, 0.774);
 }
 
 .section3{
